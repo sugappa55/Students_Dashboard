@@ -98,6 +98,17 @@
       "tenth_score": "99",
       "twelth_score": "99",
       "id": 9
+    },
+    {
+      "preferred_branch": "sports",
+      "first_name": "Pavan",
+      "last_name": "Kumar",
+      "email": "pavan@gmail.com",
+      "gender": "male",
+      "age": "16",
+      "tenth_score": "99",
+      "twelth_score": "99",
+      "id": 10
     }
   ]
 }
